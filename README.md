@@ -1,5 +1,5 @@
 # To-Do-List-in-CPP-RadStudio
-#How to run:
+# How to run:
 -Compile
 -Type in input box to add item
 -Press button
